@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/igorgallette/teste-ebac-ui#readme",
   "dependencies": {
-    "cypress": "^10.2.0"
+    "@faker-js/faker": "^7.3.0",
+    "cypress": "^10.2.0",
+    "faker": "^6.6.6"
   }
 }
